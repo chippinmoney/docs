@@ -5,12 +5,11 @@
 - Users
 
   - [Overview](Users/index.md)
+  - [Usage](Users/usage.md)
+
 - Groups
   - [Overview](Groups/index.md)
-- Rapyd
-  - [Overview](Rapyd/index.md)
-  - [Client](Rapyd/client.md)
-  - [Util](Rapyd/util.md)
+  - [Usage](Groups/usage.md)
 
-- [Awesome docsify](awesome.md)
-- [Changelog](changelog.md)
+- Rapyd Client
+  - [Overview](Rapyd/index.md)

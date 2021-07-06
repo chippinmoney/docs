@@ -1,4 +1,4 @@
-# Chippin - Users Overview
+# Chippin Users - Overview
 
 Each new user is assigned a wallet through Rapyd API. 
 All users register in Chippin through the app that makes all API calls to **Auth API**. The **Wallet API** is used to add funds to or transfer funds between wallets. Wallet API uses under lying **Rapyd Node SDK** to make all API calls to Rapyd Servers.
@@ -18,11 +18,6 @@ The *User Object* contians the follwoing:
 | passoword |  string | This password must contain atleast 8 characters. All passwords are stored in encrypted form. |
 | walletId | string | Rapyd ewalletId |
 
-
 The model can be found in `src/server/models/User.js`.
 
-## Usage
-
-* User registration
-* Transfering funds between users
-* Creating and Deleting Groups
+Read [Users Usage](Users/usage.md) complete implementation details involving Rapyd API.
