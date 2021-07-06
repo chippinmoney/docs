@@ -11,5 +11,3 @@ The `/src/rapyd` folder contains the all modules and there are 2 files:
 * **util.js**: Here, the `https` and `crypto-js` packages are used to generate request headers and timestamp for each API call. The method to generate the headers are found in the Rapyd API Docs. After generating all headers, the request parameters and body are attached and the API call is made.
 
 * **client.js**: Here, all wrapper methods are defined that follow the [Rapyd API Reference](https://docs.rapyd.net/reference) and use `util.js` as described above to make the API calls.
-
-Find the complete [Chippin API Reference here](https://github.com/chippinmoney/backend/blob/main/api_reference/api.pdf)

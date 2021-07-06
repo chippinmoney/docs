@@ -21,3 +21,5 @@ The `src` folder contains the all modules and there are 3 major modules in the p
 * **RAPYD**: Here, a Node SDK for Rapyd API is implemented containing all tools needed for this ChippIn Project only. It would be developed further into a public package to be used in other Rapyd Projects.
 
 * **SERVER**: Here, all routes, models, services and utilities are defined that run the server. The starting point of the server is `src/server/app.js`.
+
+Find the complete [Chippin API Reference here](https://github.com/chippinmoney/backend/blob/main/api_reference/api.pdf)
