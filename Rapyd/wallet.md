@@ -1,4 +1,4 @@
-# ChippIn - Rapyd Client - Rapyd Wallet API
+# ChippIn Docs | Rapyd Client - Rapyd Wallet API
 
 > The Rapyd Wallet (formerly known as eWallet) is a white-label digital wallet. Use it to receive, store, and send money. Brand the Rapyd Wallets with your own branding. Each wallet holds one or more accounts, each with its own currency and balance.
 

@@ -1,4 +1,4 @@
-# Chippin Groups - Usage
+# ChippIn Docs | Groups - Usage
 
 ## Group Registration
 

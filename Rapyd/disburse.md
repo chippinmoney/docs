@@ -1,4 +1,4 @@
-# ChippIn | Rapyd Client - Rapyd Disburse API
+# ChippIn Docs | Rapyd Client - Rapyd Disburse API
 
 > Rapyd Disburse provides methods for transferring money from a Rapyd Wallet to a beneficiary outside the Rapyd system.
 

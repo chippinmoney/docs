@@ -1,4 +1,4 @@
-# ChippIn - Rapyd Node Client
+# ChippIn Docs | Rapyd Client
 
 > This module provides methods to make use of Rapyd APIs while abstracting away all authentication headers for the developers.
 

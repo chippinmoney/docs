@@ -1,4 +1,4 @@
-# Chippin Users - Usage
+# ChippIn Docs | Users - Usage
 
 ## User registration
 

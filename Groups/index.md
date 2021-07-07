@@ -1,4 +1,4 @@
-# Chippin - Users Overview
+# ChippIn Docs | Groups - Overview
 
 The groups do not have any **admin** users. There is no heirarchy between group members to maintain trust. Any user can create a group and invite any user to join the group they are already a part of.
 

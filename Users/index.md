@@ -1,4 +1,4 @@
-# Chippin Users - Overview
+# ChippIn Docs | Users - Overview
 
 Each new user is assigned a wallet through Rapyd API. 
 All users register in Chippin through the app that makes all API calls to **Auth API**. The **Wallet API** is used to add funds to or transfer funds between wallets. Wallet API uses under lying **Rapyd Node SDK** to make all API calls to Rapyd Servers.

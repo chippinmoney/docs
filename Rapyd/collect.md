@@ -1,4 +1,4 @@
-# ChippIn - Rapyd Client - Rapyd Collect API
+# ChippIn Docs | Rapyd Client - Rapyd Collect API
 
 > The payment is the basic mechanism for collecting money from customers and depositing it in the client wallet or other wallets.
 
