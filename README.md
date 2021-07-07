@@ -12,8 +12,8 @@ The following sections contain workflow of each user activity possible through t
 The following sections contain documentation of Node SDK for Rapyd API:
 * [Rapyd Client](Rapyd/index.md)
 
-## Overview 
-In the root of the project, you'll find `.env` file for your environment and `logs` directory where the server places all logs.
+## Overview
+The source code of the project can be found [here](https://github.com/chippinmoney/backend). In the root of the project, you'll find `.env` file for your environment and `logs` directory where the server places all logs.
 
 The `src` folder contains the all modules and there are 3 major modules in the project:
 * **CONFIG**: Here, all constants are defined. The environment variables are imported here first before being used in any part of the project.
@@ -22,4 +22,4 @@ The `src` folder contains the all modules and there are 3 major modules in the p
 
 * **SERVER**: Here, all routes, models, services and utilities are defined that run the server. The starting point of the server is `src/server/app.js`.
 
-Find the complete [Chippin API Reference here](https://github.com/chippinmoney/backend/blob/main/api_reference/api.pdf)
+Find the complete [Chippin API Reference here](https://github.com/chippinmoney/backend/blob/main/api_reference/api.pdf).

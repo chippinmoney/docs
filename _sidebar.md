@@ -13,3 +13,6 @@
 
 - Rapyd Client
   - [Overview](Rapyd/index.md)
+  - [Collect API](Rapyd/collect.md)
+  - [Disburse API](Rapyd/disburse.md)
+  - [Wallet API](Rapyd/wallet.md)
