@@ -3,7 +3,7 @@
 > The ChippIIn server is written using `Express.js` and uses `MongoDB` as a database. It uses `Rapyd API` for handling all money transactions. Besides, there is a Node Rapyd SDK developed only to support ChippIn requirements that could be built as an independent package.
 
 ## How It Works
-There are primarily 2 areas to focus on: `Groups` and `Wallets`. The project requires a buissness account that would be accessible only by project-owners. All chippin users ang groups are given a new ewallet that is added to the provided buissness account in the project. 
+There are primarily 2 areas to focus on: `Groups` and `Wallets`. The project requires a buissness account that would be accessible only by project-owners. All chippin users and groups are given a new ewallet that is added to the provided buissness account in the project. 
 
 The following sections contain workflow of each user activity possible through the app:
 * [Users](Users/index.md)
