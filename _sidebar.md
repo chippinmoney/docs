@@ -16,3 +16,4 @@
   - [Collect API](Rapyd/collect.md)
   - [Disburse API](Rapyd/disburse.md)
   - [Wallet API](Rapyd/wallet.md)
+  - [Card API](Rapyd/card.md)
