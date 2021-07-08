@@ -1,6 +1,6 @@
 - Chippin Docs
 
-  - [Overview](readme.md)
+  - [Overview](https://docs.chippin.club/#/)
 
 - Users
 
